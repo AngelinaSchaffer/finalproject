@@ -1,7 +1,3 @@
-body {
-    background-color: white;
-
-}
 .logo {
     background: left / cover url(jack.png);
     background-color: grey;
@@ -10,16 +6,15 @@ body {
     margin: 0%;
     padding: 25px;
     font-style: italic;
-    color: darkred;
     font-weight: bolder;
 }
 
 .js {
-    height: 25px;
-    width: 25px;
+    height: 85px;
+    width: 85px;
     display: flex;
     align-items: left;
     margin: 0%;
     padding: 25px;
-    background-color: white;
+
 }

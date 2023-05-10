@@ -1,0 +1,9 @@
+
+.btn {
+    display: inline-block;
+    background-color: darkred;
+    &:hover {
+        background-color: black;
+        color: whitesmoke;
+      }  
+  }
